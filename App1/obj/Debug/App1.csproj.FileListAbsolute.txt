@@ -1,0 +1,8 @@
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\App1\App1\bin\Debug\App1.exe.config
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\App1\App1\bin\Debug\App1.exe
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\App1\App1\bin\Debug\App1.pdb
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\App1\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\App1\App1\obj\Debug\App1.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\App1\App1\obj\Debug\App1.exe
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\App1\App1\obj\Debug\App1.pdb
